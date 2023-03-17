@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm DArshan Kane</h1>
 <h3 align="center">A passionate frontend DevOps from India</h3>
 
+# Adrian Twarog
+I'm Adrian from Australia, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general. 
+
+## Skills and Experience
+* ⚛ React
+* 📱 React Native
+* 💻 HTML, CSS, JS
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshankane&label=Profile%20views&color=0e75b6&style=flat" alt="darshankane" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darshankane" alt="darshankane" /></a> </p>
