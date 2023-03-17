@@ -8,6 +8,8 @@ I'm Darshan from India, and I do content on DevOps.
 * GCP, AWS
 * Linux, Windows
 
+<h1> </h1>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshankane&label=Profile%20views&color=0e75b6&style=flat" alt="darshankane" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darshankane" alt="darshankane" /></a> </p>
