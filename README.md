@@ -5,7 +5,7 @@ I'm Darshan from India, and I do content on DevOps.
 * ⚛ DevOps
 * Docker, Kubernets, Openshift, Helm
 * Tekton, Jenkins
-* GCP, AWS
+* GCP, AWS<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
 * Linux, Windows
 
 <h1> </h1>
