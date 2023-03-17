@@ -4,7 +4,7 @@ I'm Darshan from India, and I do content on DevOps.
 ## Skills and Experience
 * ⚛ DevOps
 * Docker, Kubernets, Openshift, Helm
-* Tekton, Jenkins
+* Tekton, Jenkins  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://1.cms.s81c.com/sites/default/files/2020-04-01/47602533_1.png" alt="aws" width="40" height="40"/> </a> 
 * GCP, AWS<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
 * Linux, Windows
 
