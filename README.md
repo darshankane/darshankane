@@ -5,7 +5,7 @@
 I am a DevOps Engineer. I have hands-on experience with Kubernetes, Openshift, Docker and CI/CD pipelines.
 
 
-## ⚛ Skills and Experience 
+## 👨‍💻 Skills and Experience 
 	* Containerization :  Docker, Dockerfile, Docker-build, Buildah, Kubernetes, Openshift, Yaml
 	* CI-CD : Jenkins, Tekton 
 	* Automation : Performance, Regression, Sonarcube
@@ -23,7 +23,7 @@ I am a DevOps Engineer. I have hands-on experience with Kubernetes, Openshift, D
 
 
 ## 📧 Contact
-✅  ► darshankane@gmail.com
+✅  ➜ darshankane@gmail.com
 
 
 ## ☕ Connect with me!
