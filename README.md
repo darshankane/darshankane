@@ -11,7 +11,7 @@ I am a DevOps Engineer. I have hands-on experience with Kubernetes, Openshift, D
 
 
 ## Skills and Experience
-* ⚛ DevOps
+*** ⚛ DevOps**
 * Docker<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>, Kubernets<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>, Openshift, Helm
 * <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://1.cms.s81c.com/sites/default/files/2020-04-01/47602533_1.png" alt="aws" width="40" height="40"/> </a> Tekton, <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> Jenkins  
 * GCP, AWS<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
