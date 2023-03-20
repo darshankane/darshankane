@@ -12,9 +12,10 @@ I am a DevOps Engineer. I have hands-on experience with Kubernetes, Openshift, D
 	* Monitoring_Tools : Splunk, Dynatrace, Prometheus
 	* Cloud : GCP, AWS
 	* CLI : Linux CLI, Windows CMD, Putty
-	* Script : Bash, Yaml	
+	* Scripting : Bash, Yaml	
 	* Code_Mangement : GitHub, Microsfot TFS
 	* OS : Linux, Windows
+	* Build : Maven, Ant, Gradle, NPM
 
 
 
