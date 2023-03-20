@@ -24,7 +24,7 @@ I am a DevOps Engineer. I have hands-on experience with Kubernetes, Openshift, D
 
 ###Code_Mangement : GitHub, Microsfot TFS
 
-###OS : Linux, Windows
+### OS : Linux, Windows
 
 ###Build : Maven, Ant, Gradle, NPM
 
