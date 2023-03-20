@@ -41,7 +41,7 @@ I’m a Front End Web developer who is passionate about making error-free websit
 ![Total](https://github-readme-stats.vercel.app/api/top-langs/?username=darshankane&layout=compact)
 
 ![total2](https://github-readme-stats.vercel.app/api?username=darshankane&show_icons=true&locale=en)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darshankane&" alt="darshankane" /></p>
+![total3](https://github-readme-streak-stats.herokuapp.com/?user=darshankane&)
 
 
 
