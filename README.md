@@ -15,7 +15,7 @@ I am a DevOps Engineer. I have hands-on experience with Kubernetes, Openshift, D
 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="20" height="20"/> </a> : Docker
 
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="10" height="20"/> </a> : Kubernets
+<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="20" height="20"/> </a> : Kubernets
 
 * Openshift 
 
@@ -23,7 +23,7 @@ I am a DevOps Engineer. I have hands-on experience with Kubernetes, Openshift, D
 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://1.cms.s81c.com/sites/default/files/2020-04-01/47602533_1.png" alt="aws" width="20" height="20"/> </a> : Tekton
 
-<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="10" height="20"/> </a> : Jenkins
+<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="20" height="20"/> </a> : Jenkins
 
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="20" height="20"/> </a> : GCP
 
