@@ -4,18 +4,18 @@
 ## 🚀 About Me
 I am a DevOps Engineer. I have hands-on experience with Kubernetes, Openshift, Docker and CI/CD pipelines.
 
-## Skills and Experience
-### ⚛ DevOps
-	* Containerization : Docker, Dockerfile, Docker-build, Buildah, Kubernetes, Openshift, Yaml
-	* CI-CD : Jenkins, Tekton 
-	* Automation : Performance, Regression, Sonarcube
-	* Monitoring_Tools : Splunk, Dynatrace, Prometheus
-	* Cloud : GCP, AWS
-	* CLI : Linux CLI, Windows CMD, Putty
-	* Scripting : Bash, Yaml	
-	* Code_Mangement : GitHub, Microsfot TFS
-	* OS : Linux, Windows
-	* Build : Maven, Ant, Gradle, NPM
+## ⚛ Skills and Experience 
+
+	* ###Containerization : Docker, Dockerfile, Docker-build, Buildah, Kubernetes, Openshift, Yaml
+	* ###CI-CD : Jenkins, Tekton 
+	* ###Automation : Performance, Regression, Sonarcube
+	* ###Monitoring_Tools : Splunk, Dynatrace, Prometheus
+	* ###Cloud : GCP, AWS
+	* ###CLI : Linux CLI, Windows CMD, Putty
+	* ###Scripting : Bash, Yaml	
+	* ###Code_Mangement : GitHub, Microsfot TFS
+	* ###OS : Linux, Windows
+	* ###Build : Maven, Ant, Gradle, NPM
 
 
 
