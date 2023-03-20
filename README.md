@@ -35,16 +35,6 @@ I’m a Front End Web developer who is passionate about making error-free websit
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darshankane&" alt="darshankane" /></p>
 
-## Hi, I'm Ali Hossain 👋
-
-<p>
-👑 I am Web Developer <br> 
-🖊️ Love to write code <br> 
-🎤 Like to share my knowledge </p> 
-
-
-
-
 
 
 
@@ -53,6 +43,6 @@ I’m a Front End Web developer who is passionate about making error-free websit
 
 
 
-## 📧 For Business Inquiries 
-✅  ► shovoalways@gmail.com
+## 📧 Contact
+✅  ► darshankane@gmail.com
 
