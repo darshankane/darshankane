@@ -3,6 +3,8 @@ I'm Darshan from India, and I do content on DevOps.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshankane&label=Profile%20views&color=0e75b6&style=flat" alt="darshankane" /> </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darshankane&layout=compact)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darshankane&show_icons=true&locale=en&layout=compact" alt="darshankane" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darshankane&show_icons=true&locale=en" alt="darshankane" /></p>
@@ -13,7 +15,7 @@ I'm Darshan from India, and I do content on DevOps.
 ## 🚀 About Me
 I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include ReactJS, JavaScript as well as PHP. 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darshankane&layout=compact)
+
 
 ## Skills and Experience
 * ⚛ DevOps
