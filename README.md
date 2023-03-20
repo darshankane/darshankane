@@ -5,9 +5,7 @@ I'm Darshan from India, and I do content on DevOps.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darshankane&layout=compact)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darshankane&show_icons=true&locale=en&layout=compact" alt="darshankane" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darshankane&show_icons=true&locale=en" alt="darshankane" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=darshankane&show_icons=true&locale=en" alt="darshankane" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darshankane&" alt="darshankane" /></p>
 
