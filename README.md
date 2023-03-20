@@ -1,7 +1,5 @@
 # Darshan Kane  <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshankane&label=Profile%20views&color=0e75b6&style=flat" alt="darshankane" /> </p>
 
-
-
 ## 🚀 About Me
 I am a DevOps Engineer. I have hands-on experience with Kubernetes, Openshift, Docker and CI/CD pipelines.
 
