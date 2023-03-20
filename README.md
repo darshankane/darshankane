@@ -1,7 +1,6 @@
 # Darshan Kane
 I'm Darshan from India, and I do content on DevOps.
 
-![Profile views](https://gpvc.arturio.dev/darshankane) 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshankane&label=Profile%20views&color=0e75b6&style=flat" alt="darshankane" /> </p>
 
 
