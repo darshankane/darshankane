@@ -1,7 +1,4 @@
-# Darshan Kane
-I'm Darshan from India, and I do content on DevOps.
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=darshankane&label=Profile%20views&color=0e75b6&style=flat" alt="darshankane" /> </p>
+# Darshan Kane  <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshankane&label=Profile%20views&color=0e75b6&style=flat" alt="darshankane" /> </p>
 
 
 
