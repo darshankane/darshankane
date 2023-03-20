@@ -7,7 +7,7 @@ I am a DevOps Engineer. I have hands-on experience with Kubernetes, Openshift, D
 
 ## Skills and Experience
 ### ⚛ DevOps
-	*** CLI** : Linux CLI, Windows CMD
+	* CLI : Linux CLI, Windows CMD
 	* Script : Bash, Yaml
 	* CI-CD : Jenkins, Tekton 
 	* Containerization : Yaml, Docker, Dockerfile, registry, Docker-swarm, Docker-build, buildah, Kubernets, openshift...
