@@ -1,10 +1,10 @@
 
 
-# Darshan Kane
-
-<p align="left"><img  alt="coding" width="111" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> 
+# Darshan Kane <p align="left"><img  alt="coding" width="111" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> 
 	
  <img width="111" src="https://komarev.com/ghpvc/?username=darshankane&label=Profile%20views&color=0e75b6&style=flat" alt="darshankane" /> </p>
+
+
 
 
 
