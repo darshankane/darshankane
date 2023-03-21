@@ -1,4 +1,3 @@
-![logo](https://github.com/darshankane/darshankane/blob/main/Github%20Banner.png)
 # Darshan Kane  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshankane&label=Profile%20views&color=0e75b6&style=flat" alt="darshankane" /> </p>
 
